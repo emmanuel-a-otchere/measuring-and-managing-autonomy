@@ -1,10 +1,9 @@
 # `mama` — measuring and managing autonomy
 
-> **Names — read this first.**
 > **`mama`** (lowercase, in prose and code) = *measuring and managing
-> autonomy* — **this** method and toolkit: the autonomy-governance component
+> autonomy*: **this** method and toolkit: the autonomy-governance component
 > that makes delegated decision rights explicit, assessable, and manageable.
-> This repository is `mama`'s **canonical home**.
+> This `mama`'s **canonical home**.
 > **MAMA** (uppercase) = *Measuring Automation, Managing Autonomy* — the
 > broader, integrated framework
 > ([umbrella organization](https://github.com/Measuring-Automation-Managing-Autonomy))
